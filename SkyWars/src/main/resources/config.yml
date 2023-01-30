@@ -1,0 +1,5 @@
+#Config
+host: 'localhost'
+database: 'default'
+user: 'root'
+password: 'pw'

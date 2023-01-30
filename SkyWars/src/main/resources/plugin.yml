@@ -1,0 +1,14 @@
+name: SkyWars
+author: JavaSyntaxError
+version: 1.0
+main: net.items.store.skywars.SkyWars
+api-version: 1.18
+
+commands:
+   map:
+   maps:
+   location:
+   build:
+   start:
+   stats:
+   top:

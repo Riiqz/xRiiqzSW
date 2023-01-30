@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TryJump" />
+        <module name="JumpDown" />
+        <module name="MiniGames-Core" />
+        <module name="skywars" />
+        <module name="GetDown" />
+        <module name="minigames-coin" />
+        <module name="BedWars" />
+        <module name="MiniGames-Countdown" />
+        <module name="TTT" />
+        <module name="MiniGames-Team" />
+        <module name="SkyWars" />
+        <module name="MiniGames-Voting" />
+        <module name="minigames-api" />
+        <module name="minigames-core" />
+        <module name="minigames-map" />
+        <module name="MiniGames-SQL" />
+        <module name="minigames-team" />
+        <module name="MiniGames-Kit" />
+        <module name="ttt" />
+        <module name="MiniGames-API" />
+        <module name="MiniGames-Map" />
+        <module name="bedwars" />
+        <module name="MiniGames-Coin" />
+        <module name="minigames-sql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="minigames-countdown" target="17" />
+      <module name="minigames-kit" target="17" />
+      <module name="minigames-voting" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

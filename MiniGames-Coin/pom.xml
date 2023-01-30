@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <parent>
+        <artifactId>minigames</artifactId>
+        <groupId>de.riiqz.xnme</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+
+
+

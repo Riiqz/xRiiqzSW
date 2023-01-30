@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BedWars" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BedWars/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BedWars/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GetDown/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GetDown/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JumpDown/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JumpDown/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-API" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-API/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Coin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Coin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Coin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Countdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Countdown/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Countdown/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Kit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Kit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Kit/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-SQL" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-SQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-SQL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Team" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Team/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Team/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Voting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Voting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MiniGames-Voting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SkyWars" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SkyWars/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SkyWars/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTT" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTT/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TryJump/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TryJump/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

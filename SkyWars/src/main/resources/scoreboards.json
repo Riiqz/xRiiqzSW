@@ -1,0 +1,140 @@
+[
+  {
+    "identifier": "Lobby",
+    "title": "   §aSkyWars   ",
+    "scoreboardLines": [
+      {
+        "key": 5,
+        "line": "§b"
+      },
+      {
+        "key": 4,
+        "line": "§fMap§8:"
+      },
+      {
+        "key": 3,
+        "line": "§e{MAP}"
+      },
+      {
+        "key": 2,
+        "line": "§a"
+      },
+      {
+        "key": 1,
+        "line": "§fKit§8:"
+      },
+      {
+        "key": 0,
+        "line": "§a{KIT}"
+      }
+    ]
+  },
+  {
+    "identifier": "Waiting",
+    "title": "   §aSkyWars   ",
+    "scoreboardLines": [
+      {
+        "key": 11,
+        "line": "§d"
+      },
+      {
+        "key": 10,
+        "line": "§fMap§8:"
+      },
+      {
+        "key": 9,
+        "line": "§e{MAP}"
+      },
+      {
+        "key": 8,
+        "line": "§c"
+      },
+      {
+        "key": 7,
+        "line": "§fKills§8:"
+      },
+      {
+        "key": 6,
+        "line": "§c{KILLS}"
+      },
+      {
+        "key": 5,
+        "line": "§b"
+      },
+      {
+        "key": 4,
+        "line": "§fSpieler§8:"
+      },
+      {
+        "key": 3,
+        "line": "§b{PLAYER_ALIVE}"
+      },
+      {
+        "key": 2,
+        "line": "§a"
+      },
+      {
+        "key": 1,
+        "line": "§fKit§8:"
+      },
+      {
+        "key": 0,
+        "line": "§a{KIT}"
+      }
+    ]
+  },
+  {
+    "identifier": "InGame",
+    "title": " §aSkyWars §8| §a{COUNT} ",
+    "scoreboardLines": [
+      {
+        "key": 11,
+        "line": "§d"
+      },
+      {
+        "key": 10,
+        "line": "§fMap§8:"
+      },
+      {
+        "key": 9,
+        "line": "§e{MAP}"
+      },
+      {
+        "key": 8,
+        "line": "§c"
+      },
+      {
+        "key": 7,
+        "line": "§fKills§8:"
+      },
+      {
+        "key": 6,
+        "line": "§c{KILLS}"
+      },
+      {
+        "key": 5,
+        "line": "§b"
+      },
+      {
+        "key": 4,
+        "line": "§fSpieler§8:"
+      },
+      {
+        "key": 3,
+        "line": "§b{PLAYER_ALIVE}"
+      },
+      {
+        "key": 2,
+        "line": "§a"
+      },
+      {
+        "key": 1,
+        "line": "§fKit§8:"
+      },
+      {
+        "key": 0,
+        "line": "§a{KIT}"
+      }
+    ]
+  }
+]

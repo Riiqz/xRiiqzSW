@@ -1,0 +1,149 @@
+{
+  "inventorySlot": 0,
+  "inventoryItem": {
+    "material": "RED_BED",
+    "displayName": "§eTeams",
+    "lore": []
+  },
+  "inventoryItemActive": true,
+  "inventoryName": "§eTeams",
+  "inventorySize": 9,
+  "teams": [
+    {
+      "teamName": "#1",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#1 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0001",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 0
+    },
+    {
+      "teamName": "#2",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#2 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0002",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 1
+    },
+    {
+      "teamName": "#3",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#3 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0003",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 2
+    },
+    {
+      "teamName": "#4",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#4 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0004",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 3
+    },
+    {
+      "teamName": "#5",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#5 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0005",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 4
+    },
+    {
+      "teamName": "#6",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#6 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0006",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 5
+    },
+    {
+      "teamName": "#7",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#7 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0007",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 6
+    },
+    {
+      "teamName": "#8",
+      "teamPrefix": "§f",
+      "teamFullPrefix": "§f#8 §8| §f",
+      "teamSize": 1,
+      "teamScoreboardName": "0008",
+      "teamItem": {
+        "material": "STONE",
+        "displayName": "{TEAMPREFIX}Team {TEAMNAME} §8(§e{TEAMSIZE}§8/§e{MAXTEAMSIZE}§8)",
+        "lore": [
+          "§7» {TEAMPREFIX}{PLAYERNAME}",
+          "",
+          "§7Klicke, um Team {TEAMPREFIX}{TEAMNAME} §7beizutreten!"
+        ]
+      },
+      "teamInventorySlot": 7
+    }
+  ]
+}

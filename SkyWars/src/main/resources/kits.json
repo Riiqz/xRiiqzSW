@@ -1,0 +1,812 @@
+{
+  "inventorySlot": 1,
+  "inventoryItem": {
+    "material": "CHEST",
+    "displayName": "§eKits",
+    "lore": []
+  },
+  "inventoryItemActive": true,
+  "kits": [
+    {
+      "name": "Starter",
+      "default": true,
+      "freePermission": "kit.starter",
+      "price": 0,
+      "overviewItem": {
+        "material": "IRON_PICKAXE",
+        "displayName": "§6Starter",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Eisenschwert",
+          "§e1x §7Eisenaxt",
+          "§e1x §7Eisenspitzhacke",
+          "§e1x §7Goldharnisch mit Schutz II und",
+          "§7Haltbarkeit X"
+        ]
+      },
+      "items": [
+        {
+          "material": "IRON_SWORD",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "IRON_AXE",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "IRON_PICKAXE",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "GOLDEN_CHESTPLATE",
+          "slot": -2,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 2
+            },
+            {
+              "enchantmentName": "DURABILITY",
+              "enchantmentLevel": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maurer",
+      "default": false,
+      "freePermission": "kit.maurer",
+      "price": 0,
+      "overviewItem": {
+        "material": "BRICKS",
+        "displayName": "§6Maurer",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Eisenspitzhacke mit Effizienz III",
+          "§e192x §7Ziegelsteine",
+          "§e192x §7Stein",
+          "§e1x §7Goldhelm mit Schutz IV und",
+          "§7Haltbarkeit X"
+        ]
+      },
+      "items": [
+        {
+          "material": "IRON_PICKAXE",
+          "slot": -5,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "DIG_SPEED",
+              "enchantmentLevel": 3
+            }
+          ]
+        },
+        {
+          "material": "BRICKS",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "BRICKS",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "BRICKS",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "STONE",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "STONE",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "STONE",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "GOLDEN_HELMET",
+          "slot": -1,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 4
+            },
+            {
+              "enchantmentName": "DURABILITY",
+              "enchantmentLevel": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zauberer",
+      "default": false,
+      "freePermission": "kit.zauberer",
+      "price": 0,
+      "overviewItem": {
+        "material": "ENCHANTING_TABLE",
+        "displayName": "§6Zauberer",
+        "lore": [
+          "§bAusrüstung",
+          "§e32x §7Erfahrungsfläschchen",
+          "§e1x §7Zaubertisch",
+          "§e5x §7Bücherregal",
+          "§e1x §7Amboss",
+          "§e1x §7Werkbank",
+          "§e16x §7Stock",
+          "§e5x §7Eisenbarren",
+          "§e5x §7Diamant"
+        ]
+      },
+      "items": [
+        {
+          "material": "EXPERIENCE_BOTTLE",
+          "slot": -5,
+          "amount": 32
+        },
+        {
+          "material": "ENCHANTING_TABLE",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "BOOKSHELF",
+          "slot": -5,
+          "amount": 5
+        },
+        {
+          "material": "ANVIL",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "CRAFTING_TABLE",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "STICK",
+          "slot": -5,
+          "amount": 16
+        },
+        {
+          "material": "IRON_INGOT",
+          "slot": -5,
+          "amount": 5
+        },
+        {
+          "material": "DIAMOND",
+          "slot": -5,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Wolfsjunge",
+      "default": false,
+      "freePermission": "kit.wolfsjunge",
+      "price": 0,
+      "overviewItem": {
+        "material": "BONE",
+        "displayName": "§6Wolfsjunge",
+        "lore": [
+          "§bAusrüstung",
+          "§e64x §7Knochen",
+          "§e10x §7Wolf-Spawn-Ei",
+          "§e1x §7Eisenhelm mit Schutz III"
+        ]
+      },
+      "items": [
+        {
+          "material": "BONE",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "WOLF_SPAWN_EGG",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "IRON_HELMET",
+          "slot": -1,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tank",
+      "default": false,
+      "freePermission": "kit.tank",
+      "price": 0,
+      "overviewItem": {
+        "material": "DIAMOND_CHESTPLATE",
+        "displayName": "§6Tank",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Trank der Feuerresistenz (3:00)",
+          "§e1x §7Eisenhelm mit Schutz I",
+          "§e1x §7Diamantbrustpanzer mit Schutz I",
+          "§e1x §7Eisenbeinschutz mit Schutz I",
+          "§e1x §7Diamantstiefel mit Schutz I"
+        ]
+      },
+      "items": [
+        {
+          "material": "POTION",
+          "slot": -5,
+          "amount": 1,
+          "potionEffectType": "fire_resistance",
+          "potionEffectDuration": 180,
+          "potionEffectAmblifier": 1
+        },
+        {
+          "material": "IRON_HELMET",
+          "slot": -1,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 1
+            }
+          ]
+        },
+        {
+          "material": "DIAMOND_CHESTPLATE",
+          "slot": -2,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 1
+            }
+          ]
+        },
+        {
+          "material": "IRON_LEGGINGS",
+          "slot": -3,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 1
+            }
+          ]
+        },
+        {
+          "material": "DIAMOND_BOOTS",
+          "slot": -4,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assassine",
+      "default": false,
+      "freePermission": "kit.assassine",
+      "price": 0,
+      "overviewItem": {
+        "material": "DIAMOND_SWORD",
+        "displayName": "§6Assassine",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Diamantschwert mit Schärfe I",
+          "§e1x §7Diamantstiefel mit Schutz III und",
+          "§7Federfall III"
+        ]
+      },
+      "items": [
+        {
+          "material": "DIAMOND_SWORD",
+          "slot": -5,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "DAMAGE_ALL",
+              "enchantmentLevel": 1
+            }
+          ]
+        },
+        {
+          "material": "DIAMOND_BOOTS",
+          "slot": -4,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 3
+            },
+            {
+              "enchantmentName": "PROTECTION_FALL",
+              "enchantmentLevel": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creeper",
+      "default": false,
+      "freePermission": "kit.creeper",
+      "price": 0,
+      "overviewItem": {
+        "material": "SKELETON_SKULL",
+        "displayName": "§6Creeper",
+        "lore": [
+          "§bAusrüstung",
+          "§e8x §7Creeper-Spawn-Ei",
+          "§e16x §7TNT",
+          "§e8x §7Redstone-Fackel",
+          "§e8x §7Steindruckplatte",
+          "§e1x §7Eisenharnisch mit Schutz III"
+        ]
+      },
+      "items": [
+        {
+          "material": "CREEPER_SPAWN_EGG",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "TNT",
+          "slot": -5,
+          "amount": 16
+        },
+        {
+          "material": "REDSTONE_TORCH",
+          "slot": -5,
+          "amount": 8
+        },
+        {
+          "material": "STONE_PRESSURE_PLATE",
+          "slot": -5,
+          "amount": 8
+        },
+        {
+          "material": "CHAINMAIL_CHESTPLATE",
+          "slot": -2,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miner",
+      "default": false,
+      "freePermission": "kit.miner",
+      "price": 0,
+      "overviewItem": {
+        "material": "DIAMOND_PICKAXE",
+        "displayName": "§6Miner",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Diamantenspitzhacke mit Effizienz X",
+          "§7und Haltbarkeit X",
+          "§e32x §7Fackel",
+          "§e1x §7Eisenhelm mit Schutz IV"
+        ]
+      },
+      "items": [
+        {
+          "material": "DIAMOND_PICKAXE",
+          "slot": -5,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "DIG_SPEED",
+              "enchantmentLevel": 10
+            },
+            {
+              "enchantmentName": "DURABILITY",
+              "enchantmentLevel": 10
+            }
+          ]
+        },
+        {
+          "material": "TORCH",
+          "slot": -5,
+          "amount": 32
+        },
+        {
+          "material": "IRON_HELMET",
+          "slot": -1,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Schneemann",
+      "default": false,
+      "freePermission": "kit.schneemann",
+      "price": 0,
+      "overviewItem": {
+        "material": "SNOWBALL",
+        "displayName": "§6Schneemann",
+        "lore": [
+          "§bAusrüstung",
+          "§e10x §7Schneeblock",
+          "§e1x §7Karotte",
+          "§e5x §7Kohle",
+          "§e1x §7Diamantschaufel mit Effizienz X und",
+          "§7Haltbarkeit X"
+        ]
+      },
+      "items": [
+        {
+          "material": "SNOW_BLOCK",
+          "slot": -5,
+          "amount": 10
+        },
+        {
+          "material": "CARROT",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "COAL",
+          "slot": -5,
+          "amount": 5
+        },
+        {
+          "material": "DIAMOND_SHOVEL",
+          "slot": -5,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "DIG_SPEED",
+              "enchantmentLevel": 10
+            },
+            {
+              "enchantmentName": "DURABILITY",
+              "enchantmentLevel": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enderman",
+      "default": false,
+      "freePermission": "kit.enderman",
+      "price": 0,
+      "overviewItem": {
+        "material": "ENDER_PEARL",
+        "displayName": "§6Enderman",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Enderperle",
+          "§e64x §7Endstein",
+          "§e1x §7Lederjacke mit Schusssicher IV"
+        ]
+      },
+      "items": [
+        {
+          "material": "ENDER_PEARL",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "END_STONE",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "LEATHER_CHESTPLATE",
+          "slot": -2,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_PROJECTILE",
+              "enchantmentLevel": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hexe",
+      "default": false,
+      "freePermission": "kit.hexe",
+      "price": 0,
+      "overviewItem": {
+        "material": "SPLASH_POTION",
+        "potionEffectType": "poison",
+        "potionEffectDuration": 90,
+        "potionEffectAmblifier": 1,
+        "displayName": "§6Hexe",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Wurftrank der Vergiftung II (0:16)",
+          "§e1x §7Wurftrank der Feuerresistenz (2:15)",
+          "§e3x §7Wurftrank der Regeneration (0:33)"
+        ]
+      },
+      "items": [
+        {
+          "material": "SPLASH_POTION",
+          "potionEffectType": "poison",
+          "potionEffectDuration": 16,
+          "potionEffectAmblifier": 2,
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "SPLASH_POTION",
+          "potionEffectType": "fire_resistance",
+          "potionEffectDuration": 135,
+          "potionEffectAmblifier": 1,
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "SPLASH_POTION",
+          "potionEffectType": "regeneration",
+          "potionEffectDuration": 33,
+          "potionEffectAmblifier": 1,
+          "slot": -5,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Geizhals",
+      "default": false,
+      "freePermission": "kit.geizhals",
+      "price": 0,
+      "overviewItem": {
+        "material": "GOLD_BLOCK",
+        "displayName": "§6Geizhals",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Goldspitzhacke mit Effizienz V",
+          "§e16x §7Goldblock",
+          "§e1x §7Goldener Apfel",
+          "§e10x §7Goldene Karotten",
+          "§e1x §7Goldharnisch mit Schutz III und",
+          "§7Haltbarkeit X",
+          "§e1x §7Goldstiefel mit Schutz III und",
+          "§7Haltbarkeit X"
+        ]
+      },
+      "items": [
+        {
+          "material": "GOLDEN_PICKAXE",
+          "slot": -5,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "DIG_SPEED",
+              "enchantmentLevel": 5
+            }
+          ]
+        },
+        {
+          "material": "GOLD_BLOCK",
+          "slot": -5,
+          "amount": 16
+        },
+        {
+          "material": "GOLDEN_APPLE",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "GOLDEN_CARROT",
+          "slot": -5,
+          "amount": 10
+        },
+        {
+          "material": "GOLDEN_CHESTPLATE",
+          "slot": -2,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 3
+            },
+            {
+              "enchantmentName": "DURABILITY",
+              "enchantmentLevel": 10
+            }
+          ]
+        },
+        {
+          "material": "GOLDEN_BOOTS",
+          "slot": -4,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "PROTECTION_ENVIRONMENTAL",
+              "enchantmentLevel": 3
+            },
+            {
+              "enchantmentName": "DURABILITY",
+              "enchantmentLevel": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pilz",
+      "default": false,
+      "freePermission": "kit.pilz",
+      "price": 0,
+      "overviewItem": {
+        "material": "RED_MUSHROOM_BLOCK",
+        "displayName": "§6Pilz",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Steinschwert mit Schärfe I",
+          "§e16x §7Schlüssel",
+          "§e16x §7Roter Pilz",
+          "§e16x §7Brauner Pilz",
+          "§e64x §7Roter Pilzblock"
+        ]
+      },
+      "items": [
+        {
+          "id": 272,
+          "slot": -5,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "DAMAGE_ALL",
+              "enchantmentLevel": 1
+            }
+          ]
+        },
+        {
+          "material": "BOWL",
+          "slot": -5,
+          "amount": 16
+        },
+        {
+          "material": "RED_MUSHROOM",
+          "slot": -5,
+          "amount": 16
+        },
+        {
+          "material": "BROWN_MUSHROOM",
+          "slot": -5,
+          "amount": 16
+        },
+        {
+          "material": "RED_MUSHROOM_BLOCK",
+          "slot": -5,
+          "amount": 64
+        }
+      ]
+    },
+    {
+      "name": "Spinne",
+      "default": false,
+      "freePermission": "kit.spinne",
+      "price": 0,
+      "overviewItem": {
+        "material": "COBWEB",
+        "displayName": "§6Spinne",
+        "lore": [
+          "§bAusrüstung",
+          "§e64x §7Spinnennetz",
+          "§e1x §7Wurftrank der Vergiftung (0:33)",
+          "§e2x §7Trank der Schnelligkeit II (1:30)"
+        ]
+      },
+      "items": [
+        {
+          "material": "COBWEB",
+          "slot": -5,
+          "amount": 64
+        },
+        {
+          "material": "SPLASH_POTION",
+          "potionEffectType": "poison",
+          "potionEffectDuration": 33,
+          "potionEffectAmblifier": 1,
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "POTION",
+          "potionEffectType": "speed",
+          "potionEffectDuration": 90,
+          "potionEffectAmblifier": 2,
+          "slot": -5,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Pyro",
+      "default": false,
+      "freePermission": "kit.pyro",
+      "price": 0,
+      "overviewItem": {
+        "material": "FLINT_AND_STEEL",
+        "displayName": "§6Pyro",
+        "lore": [
+          "§bAusrüstung",
+          "§e1x §7Goldschwert mit Schärfe II und",
+          "§7Verbrennung II",
+          "§e1x §7Feuerzeug mit Haltbarkeit X",
+          "§e2x §7Lavaeimer",
+          "§e1x §7Trank der Feuerresistenz (3:00)"
+        ]
+      },
+      "items": [
+        {
+          "material": "GOLDEN_SWORD",
+          "slot": -5,
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentName": "DAMAGE_ALL",
+              "enchantmentLevel": 2
+            },
+            {
+              "enchantmentName": "FIRE_ASPECT",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "material": "FLINT_AND_STEEL",
+          "slot": -5,
+          "amount": 1
+        },
+        {
+          "material": "LAVA_BUCKET",
+          "slot": -5,
+          "amount": 2
+        },
+        {
+          "material": "SPLASH_POTION",
+          "potionEffectType": "fire_resistance",
+          "potionEffectDuration": 180,
+          "potionEffectAmblifier": 1,
+          "slot": -5,
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}
